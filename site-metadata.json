@@ -1,7 +1,7 @@
 {
     "description": "A Data Science Blog",
     "layout_style": "grid",
-    "palette": "blue",
+    "palette": "green",
     "header": {
         "title": "Ampersand",
         "logo_img": "images/logo.png",
